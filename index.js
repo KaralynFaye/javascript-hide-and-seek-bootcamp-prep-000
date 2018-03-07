@@ -19,5 +19,5 @@ function deepestChild() {
   while (!letSee.children) {
     letsSee=letsSee.children[0];
   }
-  return letSee;
+  return letsSee;
 }
